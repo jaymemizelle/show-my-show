@@ -157,8 +157,8 @@ Created by Puppy Road Trip LLC. Please reach out to us for future collaboration!
 
 Puppy Road Trip, LLC is:
 
-[Sloan Lacey](https://www.linkedin.com/in/sloanlacey/)
-[Jayme Mizelle](https://www.linkedin.com/in/jayme-mizelle/)
-[Joshua Rehanek](https://www.linkedin.com/in/joshua-rehanek/)
-[Shawn Flanigan](https://www.linkedin.com/in/shawnmflanigan/)
-[Sam Rogers](https://www.linkedin.com/in/samuelerogers/)
+* [Sloan Lacey](https://www.linkedin.com/in/sloanlacey/)
+* [Jayme Mizelle](https://www.linkedin.com/in/jayme-mizelle/)
+* [Joshua Rehanek](https://www.linkedin.com/in/joshua-rehanek/)
+* [Shawn Flanigan](https://www.linkedin.com/in/shawnmflanigan/)
+* [Sam Rogers](https://www.linkedin.com/in/samuelerogers/)
