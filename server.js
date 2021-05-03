@@ -5,13 +5,7 @@ const mongoose = require('mongoose');
 const PORT = process.env.PORT || 3001;
 const app = express();
 const routes = require('./routes/Index')
-// const UserAPIRoutes = require('./routes/UserAPI');
-// const ShowsAPIRoutes = require('./routes/ShowsAPI');
-// const TwitterAPIRoutes = require('./routes/TwitterAPI');
 
-// Hello
-// Darkness
-//socket dependencies
 const http = require('http').Server(app);
 const io = require('socket.io')(http, {
   cors: {
@@ -21,7 +15,7 @@ const io = require('socket.io')(http, {
     credentials: true
   },
 });
-// const NEW_CHAT_MESSAGE_EVENT = 'newChatMessage';
+
 
 
 
@@ -47,10 +41,6 @@ app.get('/*', (req, res) => {
   });
 }
 
-// Define API routes here
-// app.use('/api/user', UserAPIRoutes)
-// app.use('/api/shows', ShowsAPIRoutes)
-// app.use('/api/twitter', TwitterAPIRoutes)
 
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/showmyshow',  {
   useNewUrlParser: true,
